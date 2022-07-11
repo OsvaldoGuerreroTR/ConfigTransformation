@@ -1,0 +1,7 @@
+C:\Mantenimiento\Apps\POCConfigTransformation\bin\Debug\POCConfigTransformation.exe.config
+C:\Mantenimiento\Apps\POCConfigTransformation\bin\Debug\POCConfigTransformation.exe
+C:\Mantenimiento\Apps\POCConfigTransformation\bin\Debug\POCConfigTransformation.pdb
+C:\Mantenimiento\Apps\POCConfigTransformation\obj\Debug\POCConfigTransformation.csproj.AssemblyReference.cache
+C:\Mantenimiento\Apps\POCConfigTransformation\obj\Debug\POCConfigTransformation.csproj.CoreCompileInputs.cache
+C:\Mantenimiento\Apps\POCConfigTransformation\obj\Debug\POCConfigTransformation.exe
+C:\Mantenimiento\Apps\POCConfigTransformation\obj\Debug\POCConfigTransformation.pdb
